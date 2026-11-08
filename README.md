@@ -1,2 +1,25 @@
-# sql-practice
-Beginner system analyst. I’m learning SQL, BPMN, and APIs. My experience as an auto mechanic taught me diagnostics: I look for the cause, not the effect. Here are my SQL queries for practice.
+# SQL Practice
+
+Учебный проект по SQL. Практикуюсь на данных о странах (таблица world из SQLZoo).
+
+## Что внутри
+- `queries.sql`: 10 запросов с номерами и комментариями, что каждый делает
+- `notes.md`: мой конспект по основам SQL простыми словами
+
+## Что отработано
+- Выборки: SELECT, WHERE
+- Фильтры: IN, BETWEEN, LIKE, XOR
+- Округление: ROUND
+- Группировки и агрегатные функции: GROUP BY, COUNT, SUM
+- JOIN: разобран в конспекте на примере клиентов и платежей
+
+## Что дальше
+- Подзапросы и CTE
+- Оконные функции
+- Проект по BPMN и описанию API
+
+## Обо мне
+Никита, Санкт-Петербург. Работал автомехаником, перехожу в IT-аналитику.
+Автомеханик ищет причину поломки, а не следствие. Этот подход я переношу в анализ.
+
+Связь: Telegram @lmnsqu, nikitasaharoff@yandex.ru
